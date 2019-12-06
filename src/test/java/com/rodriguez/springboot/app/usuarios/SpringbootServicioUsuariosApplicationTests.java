@@ -1,12 +1,12 @@
 package com.rodriguez.springboot.app.usuarios;
 
-import org.junit.jupiter.api.Test;
+//import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringbootServicioUsuariosApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
